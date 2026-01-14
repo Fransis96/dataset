@@ -1,10 +1,25 @@
 # Dataset
 
 ### RAW Data
-* laporan_iklim_harian_jayapura(2023-2025).csv
-  ```
-  https://raw.githubusercontent.com/Fransis96/dataset/main/laporan_iklim_harian_jayapura(2023-2026).csv
-  ```
+
+<details>
+  <summary>Laporan iklim harian jayapura</summary><br>
+  
+  - 2023-2026
+    > **Nama Stasiun**: Stasiun Meteorologi Dok II Jayapura  
+    > **Sumber**: https://dataonline.bmkg.go.id/data-harian  
+    ```
+    https://raw.githubusercontent.com/Fransis96/dataset/main/laporan_iklim_harian_jayapura(2023-2026).csv
+    ```
+     
+</details>
+<details>
+  <summary>Data gempa bumi</summary><br>
+  
+  > Sumber: https://dataonline.bmkg.go.id/data-gempabumi  
+  > ...
+
+</details>
 
 ---
 
